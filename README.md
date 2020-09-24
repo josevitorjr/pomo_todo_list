@@ -15,7 +15,6 @@
 Consumir API
 - [ ] Criar a rota de GET
 - [ ] Usar Axios com try/catch para consumir a API da Asana 
-- [ ] Criar a rota de POST para concluir as tarefas{
+- [ ] Criar a rota de POST para concluir as tarefas
     -  Incluir o tempo total gasto na tarefas como comentário.
-}
 
