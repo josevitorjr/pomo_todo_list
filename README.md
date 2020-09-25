@@ -4,7 +4,7 @@
 
 ## FRONTEND
 
-- [ ] Utilizar React
+- [X] Utilizar React
 - [ ] Criar estrutura de lista 
 - [ ] Utilizar fetch com try/catch para consumir nossa API backend
 - [ ] Criar pomodoro timer
